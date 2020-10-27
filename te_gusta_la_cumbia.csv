@@ -30,7 +30,7 @@ edad,te_gusta_salsa,te_gusta_bailar,eres_mujer,etiqueta
 22,1,1,1,no
 21,1,1,1,si
 25,1,0,1,no
-23,1,1,,no
+23,1,1,0,no
 26,0,0,0,no
 25,1,1,1,no
 26,1,1,1,si
